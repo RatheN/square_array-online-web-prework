@@ -4,4 +4,5 @@ def square_array(array)
     array * array = new_numbers
     return "#{new_numbers}""
   end
+  end
 end
